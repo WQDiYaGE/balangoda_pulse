@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1065012878233",
+    "project_id": "balangodacommunity-39",
+    "storage_bucket": "balangodacommunity-39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065012878233:android:5e68b67793a663a6a95108",
+        "android_client_info": {
+          "package_name": "com.example.balangoda_pulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065012878233-aqlrmba09n93gthua6rs6a3h54flo8pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.balangoda_pulse",
+            "certificate_hash": "9679757b15a70e84988687b549b4493b1bcb00d0"
+          }
+        },
+        {
+          "client_id": "1065012878233-2spnukcgh7o756f4v1nogui96vrvfd37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Iw-2Ed5FH29dwG21b8XJ5kMD4O5JEj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065012878233-2spnukcgh7o756f4v1nogui96vrvfd37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065012878233-tbbi8jl8v89vp4567i014ovbo6sr8dnu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.balangodaPulse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
